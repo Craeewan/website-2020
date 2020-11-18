@@ -1,0 +1,12 @@
+.navbar__container {
+  display: flex;
+  align-items: center;
+  flex: 0.8;
+  padding: 20px;
+  margin-left: 10px;
+}
+.navbar__option {
+  padding: 20px;
+}
+.navbar__container > a {
+text-decoration: none;}

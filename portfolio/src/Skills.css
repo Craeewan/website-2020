@@ -1,0 +1,15 @@
+.skills__container {
+    display: flex;
+}
+.skills__list {
+    display: flex;
+    flex-direction: column;
+    flex:0.2;
+}
+.skills__window {
+    flex:0.8;
+}
+.skills__logo {
+    height: 50px;
+    object-fit: contain;
+}
